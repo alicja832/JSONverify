@@ -16,7 +16,7 @@ Environment configuration
 
 #Run tests
 
-    1Find class VerificationTest in project structure.
+    1.Find class VerificationTest in project structure.
     2.Change the filepath in method Verify(), with location of your project.
     3.Run tests by right-clicking in the name of class Main and choose option "Run VerificationTest".
 
@@ -24,9 +24,9 @@ Environment configuration
 
 Necessary tools to run project:
 
-    Java Development Kit (JDK)
-    IntelliJ IDEA
-    Maven
+    -Java Development Kit (JDK)
+    -IntelliJ IDEA
+    -Maven
 
 #Author
 Alicja Kałuża
